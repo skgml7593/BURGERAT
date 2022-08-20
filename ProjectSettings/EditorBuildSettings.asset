@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/TITLE.unity
+    guid: 00ccd80765970f646adf117528f33069
+  - enabled: 1
+    path: Assets/Scene/illustration/Startillustration.unity
+    guid: 8045420621e2a194a8dc1b933a57922c
+  - enabled: 1
+    path: Assets/Scene/storage.unity
+    guid: 6a171dfeaa9c5364ea1efd5bbeb33e20
+  - enabled: 1
+    path: Assets/Scene/tongro.unity
+    guid: 5c8244b9cab127c47a07c6defc3902ac
+  - enabled: 1
+    path: Assets/Scene/kitchen02.unity
+    guid: 1b442649216810142a33a282e04bd3c5
+  - enabled: 1
+    path: Assets/Scene/gameOver02.unity
+    guid: f29cacb2bac2d284596f9bc389c56f9a
+  - enabled: 1
+    path: Assets/Scene/illustration/RacingIllustration.unity
+    guid: 79ee496f3f8237d4fbdf150acc233d7d
+  - enabled: 1
+    path: Assets/Scene/racing.unity
+    guid: 5c239ded014c550488e255eba828ef72
+  - enabled: 1
+    path: Assets/Scene/gameOver.unity
+    guid: 825f88d5f83bd59499194b3ff820a765
+  - enabled: 1
+    path: Assets/Scene/illustration/Ending.unity
+    guid: 7cdaec67965751a4a9deda6a8dfcfcc9
+  - enabled: 1
+    path: Assets/Scene/tutorial.unity
+    guid: 971f4628b91578b499ecab069505dcab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 602d8fec5c6e2b04b8fe25edd8262c28, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b9572eeb2aed82c449dfbebe5905e653, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 52d1b0bd682d38647b5a932e0414e363, type: 2}
