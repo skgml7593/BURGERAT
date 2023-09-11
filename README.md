@@ -22,4 +22,3 @@ YouTube : https://www.youtube.com/@burgerat9084
 기획 : 4명 / 디자인 : 5명 / 개발 : 5명 (총 14명)
 
 ***
-### 게임 기능
