@@ -6,6 +6,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![OculusQuest2](https://img.shields.io/badge/Oculus_Quest2-%231877F2.svg?style=for-the-badge&logo=meta&logoColor=white)  
 
+YouTube : https://www.youtube.com/@burgerat9084
+
 *** 
 ### 게임 소개
 
